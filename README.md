@@ -1,6 +1,9 @@
 [![Quality Gate Status](https://sonar.openbsl.ru/api/project_badges/measure?project=connector&metric=alert_status)](https://sonar.openbsl.ru/dashboard?id=connector)
 [![Stars](https://img.shields.io/github/stars/firstBitSportivnaya/PSSL.svg?label=Github%20%E2%98%85&a)](https://github.com/firstBitSportivnaya/PSSL/stargazers)
-[![Release](https://img.shields.io/github/tag/firstBitSportivnaya/PSSL.svg?label=Last%20release&a)](https://github.com/firstBitSportivnaya/PSSL/releases)
+[![Release](https://img.shields.io/github/v/release/firstBitSportivnaya/PSSL?include_prereleases&label=last%20release&style=badge)](https://github.com/firstBitSportivnaya/PSSL/releases/latest)
+[![GitHub issues](https://img.shields.io/github/issues-raw/firstBitSportivnaya/PSSL?style=badge)](https://github.com/firstBitSportivnaya/PSSL/issues)
+[![License](https://img.shields.io/github/license/firstBitSportivnaya/PSSL?style=badge)](https://github.com/firstBitSportivnaya/PSSL/blob/develop/LICENSE)
+
 
 # Проектная библиотека подсистем
 
