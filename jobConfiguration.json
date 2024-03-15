@@ -3,26 +3,12 @@
     "stages": {
         "initSteps": true,
         "syntaxCheck": true,
-        "edtValidate": true,
         "smoke": true,
         "sonarqube": true,
         "telegram": true
     },
-    "timeout": {
-        "smoke": 300,
-        "bdd": 180,
-        "createInfoBase": 120,
-        "designerToEdtFormatTransformation": 120,
-        "edtToDesignerFormatTransformation": 120,
-        "edtValidate": 300,
-        "initInfoBase": 120,
-        "resultTransformation": 60,
-        "sonarqube": 150,
-        "syntaxCheck": 300,
-        "zipInfoBase": 120
-    },
     "sourceFormat": "designer",
-    "srcDir": "src",
+    "srcDir": "src/cf",
     "resultsTransform": {
         "removeSupport": false
     },
@@ -30,7 +16,14 @@
         "waitForQualityGate": true
     },
     "initInfobase": {
-        "initMethod": "fromSource"
+        "initMethod": "fromSource",
+        "extensions": [
+            {
+                "name": "ТестированиеСборки",
+                "initMethod": "fromSource",
+                "path": "src/cfe/test"
+            }
+        ]
     },
     "notifications": {
         "telegram": {

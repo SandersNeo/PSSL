@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Catalog uuid="2bf30fc7-763d-4bdd-bedd-d52ee4e80d76">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.__ИсторияИнтеграции" category="Object">
+				<xr:TypeId>7dd42403-bdc2-4d14-a4a7-060f457ebea1</xr:TypeId>
+				<xr:ValueId>b47e3de3-5a8b-4b50-b753-b226ace58697</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.__ИсторияИнтеграции" category="Ref">
+				<xr:TypeId>68571a89-05c1-41c6-8c82-c4d447279d38</xr:TypeId>
+				<xr:ValueId>ef5b850c-a34a-4f7f-b5ea-3b44bcfb8bd4</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.__ИсторияИнтеграции" category="Selection">
+				<xr:TypeId>084cf1ef-3d3f-42a8-a6ae-4608d7b09967</xr:TypeId>
+				<xr:ValueId>1bac3bfe-c58a-4cd6-8b5b-6aa3cf72f461</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.__ИсторияИнтеграции" category="List">
+				<xr:TypeId>766f97d2-97fd-4ab4-9732-e9120e82d786</xr:TypeId>
+				<xr:ValueId>abea72e6-bbfb-4808-8524-9a9e907b07e0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.__ИсторияИнтеграции" category="Manager">
+				<xr:TypeId>e07c4580-ea00-40f9-879b-7c3b98afe540</xr:TypeId>
+				<xr:ValueId>145c0dca-073c-4a0a-9b00-101eaf994a56</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>__ИсторияИнтеграции</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>bd327c0f-090a-4315-8a8f-0354ed971c9b</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>
