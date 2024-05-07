@@ -6,7 +6,8 @@
         "smoke": true,
         "yaxunit": true,
         "telegram": true,
-        "bdd": true
+        "bdd": true,
+        "sonarqube": true
     },
     "sourceFormat": "designer",
     "srcDir": "src/cf",
